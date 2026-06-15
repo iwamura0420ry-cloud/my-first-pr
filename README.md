@@ -8,7 +8,7 @@ A simple greeting utility in Python.
 python greet.py
 ```
 
-## Fetures
+## Features
 
 - Greet users by name
-- Support multiple langauges
+- Support multiple languages
